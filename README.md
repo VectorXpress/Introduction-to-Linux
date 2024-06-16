@@ -1,6 +1,4 @@
-# How does Linux work?
-Imagine an operating system (OS) as the foundation of a house. The foundation alone is crucial, but it needs walls, a roof, and utilities to become a livable home. Without a solid foundation, the rest of the house would be unstable.
+# What is the command line?
+The [command line interface](https://en.wikipedia.org/wiki/Command-line_interface) (CLI) provides direct access to a computer, allowing you to request hardware actions that [graphical user interfaces](https://en.wikipedia.org/wiki/Graphical_user_interface) (GUIs) can't handle.
 
-Linux was designed to be similar to [UNIX](https://www.techtarget.com/searchdatacenter/definition/Unix) but has evolved to run on a wide range of hardware, from phones to supercomputers. Every Linux-based OS includes the Linux kernel, which manages hardware resources, and a collection of software packages that constitute the rest of the operating system. Organizations can also choose to run their Linux OS on a [Linux server](https://www.redhat.com/en/topics/linux/linux-server).
-
-The OS includes core components such as [GNU tools](https://en.wikipedia.org/wiki/GNU), which allow users to manage the resources provided by the kernel, install additional software, and configure performance and security settings. These tools, combined together, form a functional operating system. Since Linux is an [open-source](https://opensource.com/resources/what-open-source) OS, the combinations of software can vary across different Linux distributions.
+While command lines are available on many operating systems, both proprietary and open source, they are often associated with Linux. This is because command lines, combined with open source software, offer users unrestricted control over their computer.
