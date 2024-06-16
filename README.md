@@ -1,2 +1,6 @@
-# Introduction to Linux
-<mark>*"Introduction to Linux"*</mark> is a guide designed for those new to the [Linux operating system](https://www.redhat.com/en/topics/linux/what-is-linux#:~:text=Linux%20is%20a%20free%2C%20open,so%20under%20the%20same%20license.). This resource provides a step-by-step approach to understanding and navigating Linux, covering essential commands, basic system operations, and practical tips to get you started on your Linux journey.
+# How does Linux work?
+Imagine an operating system (OS) as the foundation of a house. The foundation alone is crucial, but it needs walls, a roof, and utilities to become a livable home. Without a solid foundation, the rest of the house would be unstable.
+
+Linux was designed to be similar to [UNIX](https://www.techtarget.com/searchdatacenter/definition/Unix) but has evolved to run on a wide range of hardware, from phones to supercomputers. Every Linux-based OS includes the Linux kernel, which manages hardware resources, and a collection of software packages that constitute the rest of the operating system. Organizations can also choose to run their Linux OS on a [Linux server](https://www.redhat.com/en/topics/linux/linux-server).
+
+The OS includes core components such as [GNU tools](https://en.wikipedia.org/wiki/GNU), which allow users to manage the resources provided by the kernel, install additional software, and configure performance and security settings. These tools, combined together, form a functional operating system. Since Linux is an [open-source](https://opensource.com/resources/what-open-source) OS, the combinations of software can vary across different Linux distributions.
