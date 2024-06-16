@@ -1,2 +1,2 @@
-# Introduction-to-Linux
-"Introduction to Linux" is a guide designed for those new to the Linux operating system. This resource provides a step-by-step approach to understanding and navigating Linux, covering essential commands, basic system operations, and practical tips to get you started on your Linux journey.
+# Introduction to Linux
+<mark>*"Introduction to Linux"*</mark> is a guide designed for those new to the [Linux operating system](https://www.redhat.com/en/topics/linux/what-is-linux#:~:text=Linux%20is%20a%20free%2C%20open,so%20under%20the%20same%20license.). This resource provides a step-by-step approach to understanding and navigating Linux, covering essential commands, basic system operations, and practical tips to get you started on your Linux journey.
