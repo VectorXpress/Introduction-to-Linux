@@ -1,2 +1,9 @@
-# Introduction to Linux
-<mark>*"Introduction to Linux"*</mark> is a guide designed for those new to the [Linux operating system](https://www.redhat.com/en/topics/linux/what-is-linux#:~:text=Linux%20is%20a%20free%2C%20open,so%20under%20the%20same%20license.). This resource provides a step-by-step approach to understanding and navigating Linux, covering essential commands, basic system operations, and practical tips to get you started on your Linux journey.
+# What does Linux consist of?
+>## <mark>Kernel</mark>
+>>The core component of the OS, essential for its operation. The kernel manages system resources and communicates with the hardware, handling memory, processing, and file management. Without it, the OS cannot function.
+
+>## <mark>System User Space</mark>
+>>The administrative layer handles system-level tasks such as configuration and software installation. This includes the shell (or command line), background processes known as daemons, and the desktop environment.
+
+>## <mark>Applications</mark>
+>>A type of software that enables you to perform specific tasks. Applications range from desktop utilities and programming languages to multiuser business suites. Most Linux distributions provide a central repository where you can search for and download additional applications.
